@@ -27,8 +27,8 @@
 
    This is free software; you can redistribute it and/or modify it under the
    terms of the GNU Lesser General Public License as published by the Free
-   Software Foundation. See file LICENSE (PFLOTRAN/code/pflotran/LICENSE) for
-   details of the the open source GNU LGPL 3.0 license.
+   Software Foundation. See file LICENSE for details of the the open source 
+   GNU LGPL 3.0 license.
 '''
 
 
