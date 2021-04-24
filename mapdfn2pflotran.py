@@ -21,6 +21,15 @@
 
    Date: 07/13/18
    SAND Number: SAND2018-7605 O
+
+   Copyright 2018 National Technology & Engineering Solutions of Sandia, LLC
+   (NTESS). Under the terms of Contract DE-NA0003525 with NTESS, the U.S.
+   Government retains certain rights in this software.
+
+   This is free software; you can redistribute it and/or modify it under the
+   terms of the GNU Lesser General Public License as published by the Free
+   Software Foundation. See file LICENSE (PFLOTRAN/code/pflotran/LICENSE) for
+   details of the the open source GNU LGPL 3.0 license.
 '''
 
 import numpy as np
